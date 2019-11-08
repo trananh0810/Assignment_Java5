@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+.p-pay-title{
+	color: #ef7147;
+	font-size: 33px;
+}
+.p-payDetail{
+	margin-bottom: 10px;
+	font-size: 20px;
+}
+.div-order{
+	background-color: #fbfbfb;
+}
+.div-pay-product-img{
+	position: relative;
+}
+.div-pay-product-img>img{
+	width: 50px;
+	height: 50px;
+	border-radius: 5px;
+}
+
+.div-pay-product-img>p{
+	position: absolute;
+	z-index: 10;
+	top: 0;
+	right: 10px;
+	width: 15px;
+	height: 15px;
+	border-radius: 10px;
+	background-color: #ef7147;
+	font-size: 10px;
+	color: white;
+	text-align: center;
+}
+.small-err{
+	height: 20px;
+	color: red !important;
+}

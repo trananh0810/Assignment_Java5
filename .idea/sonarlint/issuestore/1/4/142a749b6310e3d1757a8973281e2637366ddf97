@@ -1,0 +1,12 @@
+
+isquid:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Á¢ú´
+Xsquid:UselessImportCheck"4Remove this unused import 'org.hibernate.Hibernate'.(óñ‹è
+nsquid:S2737E"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+nsquid:S2737S"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+osquid:S2737"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+fsquid:S00119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(·Ã¥üÿÿÿÿ
+nsquid:S2737*"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+nsquid:S27377"WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û
+Tsquid:S1854Z"8Remove this useless assignment to local variable "list".(„¢Áòÿÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä”òª
+osquid:S2737 "WAdd logic to this catch clause or eliminate it and rethrow the exception automatically.(ö™û

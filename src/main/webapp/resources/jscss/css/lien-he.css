@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+.div-content{
+	background-image: url(../img/bg_all.png);
+}
+.div-content-item{
+	height: 1230px;
+	padding-top: 50px;
+}
+.p-content1{
+	color: #ef7147;
+	font-size: 20px;
+	font-weight: bold;
+}
+.btn-sendMess{
+	margin-top: 20px;
+	background-color: #ef7147;
+	outline: none;
+	border: none;
+	cursor: pointer;
+	border: 1px solid white;
+}
+.btn-sendMess:hover{
+	margin-top: 20px;
+	background-color: white;
+	outline: none;
+	border: 1px solid #ef7147;
+	color: #ef7147;
+}
+.div-form-lienHe{
+	background-color: white;
+	border-radius: 5px;
+	padding:30px;
+	border: 1px solid #E4E4E4;
+}
+.small-error{
+	height: 20px;
+}
+.div-lienHe{
+	padding-left: 40px;
+	padding-top: 30px;
+}
+.div-lienHe img{
+	margin-bottom: 30px;
+}
+.div-lienHe i{
+	color: #ef7147;
+	margin-right: 20px
+}

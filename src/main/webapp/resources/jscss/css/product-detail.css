@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+
+.div-rangCua{
+	bottom: -6px;
+}
+
+
+
+.div-content{
+	background-image: url(../../fileupload/img/bg_all.png);
+}
+
+.div-content-item{
+	height: auto;
+	padding-top: 50px;
+	padding-bottom: 40px;
+}
+
+/* product */
+.div-img img{
+	height: 300px;
+}
+.div-img{
+	background-color: white;
+	height: 330px;
+	padding-top: 15px;
+	border-radius: 5px;
+	border: 1px solid #ebebeb;
+	margin: 0!important;
+}
+.p-product-title{
+	font-size: 28px;
+}
+.div-product-price{
+	border-bottom: 1px solid #ebebeb;
+}
+.p-product-price{
+	font-size: 30px;
+	color: #ef7147;
+}
+.div-product-quantity{
+	height: 85px;
+	border-bottom: 1px solid #ebebeb;
+}
+
+
+/* Giao hàng */
+.div-transport{
+	background-color: white;
+	height: 150px;
+	padding: 30px 10px 10px 10px;
+	border-radius: 5px;
+	margin-bottom: 30px;
+	border: 1px solid #ebebeb;
+}
+.p-transport-title{
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+}
+.p-transport-title>i{
+	font-size: 30px;
+	color: #ef7147;
+}
+.div-transport2{
+	background-color: white;
+	height: 150px;
+	border-radius: 5px;
+	border: 1px solid #ebebeb;
+	padding: 0;
+}
+.div-transport2-item{
+	height: 75px;
+	width: 100%;
+	margin: 0;
+}
+.div-transport2-item:nth-child(1){
+	border-bottom: 1px solid #ebebeb;
+}
+.p-transport-title2{
+	font-size: 16px;
+	font-weight: bold;
+	text-align: justify;
+	margin-top: 10px;
+}
+.div-transport2-item i{
+	font-size: 30px;
+	line-height: 70px;
+	color: #ef7147;
+}
+.div-product-shoppingGuide a{
+	color: black;
+	transition: 0.3s;
+}
+.div-product-shoppingGuide a:hover{
+	color: #ef7147;
+}
+
+
+
+
+/* Chi tiết và bình luận */
+.div-product-tab{
+	height: auto;
+	background-color: white;
+	border: 1px solid #ebebeb;
+	border-top: none;
+}
+.div-product-tab-comment .row{
+	border-bottom: 1px solid #ebebeb;
+}
+.div-product-tab-comment>.row:nth-child(1){
+	height: 45px;
+}
+.div-product-tab-comment>.row:nth-child(1) p{
+	line-height: 55px;
+}
+.div-product-tab-comment>.row:nth-child(2){
+	height: 70px;
+}
+.div-comments>.row{
+	height: auto;
+}
+

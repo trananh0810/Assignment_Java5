@@ -1,0 +1,70 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    color: white;
+    text-decoration: none!important;
+}
+.btn{
+    cursor: pointer;
+}
+.div-header{
+    width: 100%;
+    height: 65px;
+    background-color: #eae9e9;
+}
+.img-icon-user{
+    width: 40px;
+}
+
+.div-content{
+    width: 100%;
+    height: auto;
+}
+.div-content-left{
+    background-color: #293e53;
+    width: 300px;
+    min-height: 904px;
+    float: left;
+}
+
+.div-menu-item{
+    background: none;
+    color: white;
+}
+.a-menu-item{
+    color: white;
+}
+.a-menu-item:hover{
+    color: #ef7147;
+    text-decoration: none;
+}
+.div-menu-item .card-body{
+    padding: 0;
+}
+.div-menu-item .card-body ul li{
+    color: black;
+    list-style: none;
+    line-height: 40px;
+    margin-left: 20px;
+}
+.div-menu-item .card-body ul a{
+    text-decoration: none;
+}
+.div-menu-item .card-body ul li:hover{
+    color: #ef7147;
+    
+}
+.div-content-center{
+    float: left;
+    width: 80.253%;
+    height: auto;
+}
+.small-error{
+    height: 20px;
+    color: red !important;
+}

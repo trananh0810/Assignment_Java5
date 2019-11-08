@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+.div-content{
+	background-image: url(../../fileupload/img/bg_all.png);
+	padding-bottom: 10px;
+}
+.card-blog-item{
+	float: left;
+	width: 47%;
+	margin: 0 10px;
+	margin-bottom: 20px;
+}
+.tieuDeBlog{
+	font-size: 18px!important;
+	transition: 0.3s;
+}
+.tieuDeBlog:hover{
+	color: #ef7147;
+	cursor: pointer;
+}
+.chiTietBlog{
+	font-style: italic;
+	color: #ef7147;
+	cursor: pointer;
+}
+.div-blog-img{
+	background-color: white;
+    height: 105px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.p-blog1{
+	font-size: 17px;
+	text-align: justify;
+	line-height: 21px;
+	transition: 0.3s;
+}
+.p-blog1:hover{
+	color: #ef7147;
+	cursor: pointer;
+}
+.p-blog2{
+	font-size: 14px;
+	color: #908f8f;
+}
+.div-blogXemNhieu-item{
+	border-top: 1px dashed #c3c3c3;
+	padding-top: 10px;
+}

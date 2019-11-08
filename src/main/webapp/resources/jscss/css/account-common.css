@@ -1,0 +1,182 @@
+.div-account-avatar{
+    margin-bottom: 20px;
+    color: black;
+}
+.div-img{
+    width: 65px;
+    height: 65px;
+    float: left;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 10px;
+    position: relative;
+}
+.div-img{
+    width: 65px;
+    height: 65px;
+}
+
+.div-account-avatar p{
+    padding-top: 20px;
+    font-weight: 600;
+    float: left;
+    margin-right: 10px;
+}
+#i-acount-dropdown{
+    margin-top: 24px;
+    font-size: 15px;
+    display: none;
+}
+.div-account-menu-item{
+    height: 40px;
+    line-height: 40px;
+    padding-left: 24px;
+    border-radius: 3px;
+    transition: 0.3s;
+}
+.div-account-menu-item:hover{
+    background-color: rgb(231, 231, 231);
+}
+.div-account-menu-item a{
+    color: black;
+}
+.div-account-menu-item:nth-child(2){
+    padding-left: 22px;
+}
+.div-account-menu-item span{
+    padding-left: 30px;
+}
+.div-account-menu-item:nth-child(3) span,.div-account-menu-item:nth-child(4) span{
+    padding-left: 34px;
+}
+.div-account-left>.container-fluid>.row:nth-child(5){
+    display: none;
+}
+.div-account-title{
+    padding-top: 15px;
+}
+.div-account-title>p{
+    font-size: 20px;
+}
+.div-account-avatar-edit{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 65px;
+    height: 0px;
+    border-radius: 50%;
+    overflow: hidden;
+    transition: 0.2s;
+}
+.div-account-avatar-edit>div{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    background-color: rgba(0, 0, 0, 0.568);
+    text-align: center;
+    color: white;
+}
+.div-img:hover .div-account-avatar-edit{
+    height: 65px;
+    cursor: pointer;
+}
+
+.div-account-avatar-mobile{
+    position: relative;
+}
+.div-account-avatar-mobile .fa-pen-square{
+    position: absolute;
+    z-index: 1;
+    bottom: -18px;
+    left: 45px;
+    color: black;
+    font-size: 20px;
+}
+.div-account-avatar-mobile>div{
+    float: left;
+    border-radius: 50%;
+    width: 65px;
+    height: 65px;
+    overflow: hidden;
+    margin-right: 10px;
+}
+.div-account-avatar-mobile>p{
+    float: left;
+    margin-top: 25px;
+    margin-right: 5px;
+    color: black;
+}
+.div-account-avatar-mobile>.fa-sort-down{
+    margin-top: 25px;
+    color: black;
+}
+
+#modal-account-update-avatar .modal-body .container-fluid>.row:nth-child(1)>.col-4:nth-child(2)>.div-img{
+    margin-left: 50%;
+    transform: translateX(-32.5px);
+}
+.div-account-right{
+    font-size: 0.9em;
+}
+
+
+
+
+/* responsive */
+@media (min-width: 992px){
+    
+}
+
+@media (min-width: 992px) and (max-width: 1200px){
+    .div-account-left{
+        font-size: 0.9em;
+    }
+    /* .div-account-avatar img{
+        margin-right: 0;
+        width: 55px;
+    } */
+    .div-account-avatar p{
+        padding-top: 25px;
+    }
+    .div-account-menu-item:nth-child(2){
+        padding-left: 19px;
+    }
+    .div-account-menu-item{
+        padding-left: 21px;
+    }
+    .div-account-menu-item span{
+        padding-left: 12px;
+    }
+    .div-account-menu-item:nth-child(3) span,.div-account-menu-item:nth-child(4) span{
+        padding-left: 15px;
+    }
+    
+}
+
+@media (max-width: 991.98px){
+    .div-account-left>.container-fluid>.row:nth-child(1),
+    .div-account-left>.container-fluid>.row:nth-child(2),
+    .div-account-left>.container-fluid>.row:nth-child(3),
+    .div-account-left>.container-fluid>.row:nth-child(4){
+        display: none;
+    }
+    .div-account-left>.container-fluid>.row:nth-child(5){
+        display: block;
+    }
+}
+
+@media (max-width: 767.98px){
+    
+}
+
+@media (max-width: 575.98px){
+    .div-account-right{
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 369px){
+    
+}

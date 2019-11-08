@@ -1,0 +1,31 @@
+
+[squid:S1155 ">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+Usquid:S11556">Use isEmpty() to check whether the collection is empty or not.(§‘Û
+]squid:S4684„"@Replace this persistent entity with a simple POJO or DTO object.(Å±²üÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î
+^squid:S1126°"AReplace this if-then-else statement by a single return statement.(É€°Îøÿÿÿÿ
+fsquid:S1192¢"NDefine a constant instead of duplicating this literal "cannot_delete" 4 times.(Å£¸ò
+]squid:S4684Ô"@Replace this persistent entity with a simple POJO or DTO object.(¶Äƒÿÿÿÿÿ
+Vsquid:S1155Ä">Use isEmpty() to check whether the collection is empty or not.(Ú½ãà
+]squid:S2441:"AMake "UsersEntity" serializable or don't store it in the session.(Ïä’Ôşÿÿÿÿ
+Isquid:S1481\"-Remove this unused "idReturn" local variable.(¶üÀÇøÿÿÿÿ
+]squid:S4684‹"@Replace this persistent entity with a simple POJO or DTO object.(Ò„—©ıÿÿÿÿ
+[squid:S1155°">Use isEmpty() to check whether the collection is empty or not.(É€°Îøÿÿÿÿ
+Ysquid:S1854ˆ"<Remove this useless assignment to local variable "idReturn".(ù°ƒşÿÿÿÿ
+[squid:S1155ş">Use isEmpty() to check whether the collection is empty or not.(Î¢³Ñıÿÿÿÿ
+Usquid:S1155m">Use isEmpty() to check whether the collection is empty or not.(’İÖ
+Vsquid:S1155€">Use isEmpty() to check whether the collection is empty or not.(§‘Û
+Vsquid:S1155â">Use isEmpty() to check whether the collection is empty or not.(¦ä—à
+Wsquid:S4684L"@Replace this persistent entity with a simple POJO or DTO object.(Ñ÷ò¼
+Esquid:S1125v")Remove the literal "false" boolean value.(÷ÕæÑÿÿÿÿÿ
+Ysquid:S1126€"AReplace this if-then-else statement by a single return statement.(§‘Û
+Xsquid:S4684®"@Replace this persistent entity with a simple POJO or DTO object.(Ù¶ñû
+^squid:S1126 "AReplace this if-then-else statement by a single return statement.(É€°Îøÿÿÿÿ
+Xsquid:S1854\"<Remove this useless assignment to local variable "idReturn".(¶üÀÇøÿÿÿÿ
+Jsquid:S1481ˆ"-Remove this unused "idReturn" local variable.(ù°ƒşÿÿÿÿ
+Vsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(§‘Û
+_squid:S1192;"HDefine a constant instead of duplicating this literal "success" 3 times.(ùØ
+Ysquid:S1126"AReplace this if-then-else statement by a single return statement.(§‘Û
+Vsquid:S1155¡">Use isEmpty() to check whether the collection is empty or not.(ÄÎ•¿
+[squid:S1155Ø">Use isEmpty() to check whether the collection is empty or not.(Î¢³Ñıÿÿÿÿ
+Vsquid:S1155÷">Use isEmpty() to check whether the collection is empty or not.(‹çƒğ

@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.div-rangCua{
+	bottom: -6px;
+}
+
+.div-content{
+	background-image: url(../../fileupload/img/bg_all.png);
+}
+
+.div-content-item{
+	height: auto;
+	padding-top: 50px;
+	padding-bottom: 40px;
+}

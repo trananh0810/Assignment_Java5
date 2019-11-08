@@ -1,0 +1,211 @@
+@charset "utf-8";
+/* CSS Document */
+a:hover{
+	text-decoration: none!important;
+}
+
+
+/* slide dưới đầu trang */
+.divWrapSlide{
+	width: 1519px;
+	height: 413px;
+	margin: auto;
+	position: relative;
+	overflow: hidden;
+}
+.divWrapSlide img{
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: 0;
+	z-index: 1;
+}
+.divWrapSlide ul{
+	position: absolute;
+	width: 247px;
+	bottom: 0;
+	left: 0;
+	margin-left: 50%;
+	transform: translateX(-124px);
+	z-index: 2;
+}
+.divWrapSlide ul li{
+	list-style: none;
+	float: left;
+	color: white;
+	font-size: 30px;
+	margin-right: 20px;
+}
+.divWrapSlide ul li:hover{
+	color: #ef7147;
+	cursor: pointer;
+}
+.imgSlideActive{
+	z-index: 3;
+	opacity: 1!important;
+}
+
+/* Conten */
+
+/*Món ăn nổi bật*/
+.divMANB{
+	background-image: url(../../fileupload/img/bg_monannoibat.png);
+	height: 575px;
+}
+.divImgMANB{
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	width: 95%;
+}
+.divImgMANB img{
+	transition: 0.3s;
+}
+.divImgMANB:hover img{
+	transform: scale(1.2);
+}
+.divImgBlur{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 0%;
+	background-color: #6B6B6B;
+	opacity: 0.3;
+	transition: 0.3s;
+}
+.divImgMANB:hover .divImgBlur{
+	height: 100%;
+}
+.pMANB1{
+	font-size: 24px;
+	color: #ef7147;
+}
+.pTieuDeMonAn:hover{
+	color: #ef7147;
+	cursor: pointer;
+}
+.selectSize{
+	width: 27%;
+	display: inline-block;
+}
+.divIconXemNhanhMuaHang{
+	width: 100%;
+	height: 20%;
+	position: absolute;
+	bottom: -55px;
+	left: 0;
+	padding-left: 105px;
+	transition: 0.3s;
+}
+.divIconXemNhanhMuaHang>div{
+	float: left;
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	border: 3px solid white;
+	margin-right: 20px;
+	transition: 0.3s;
+	background-color: white;
+}
+.divIconXemNhanhMuaHang>div>i{
+	font-size: 20px;
+	line-height: 43px;
+	transition: 0.3s;
+}
+.divImgMANB:hover .divIconXemNhanhMuaHang{
+	bottom: 100px;
+}
+.divIconXemNhanhMuaHang>div:hover{
+	border: 3px solid #ef7147;
+	cursor: pointer;
+}
+.divIconXemNhanhMuaHang>div:hover i{
+	color: #ef7147;
+}
+
+
+
+/*Món ăn được ưa chuộng*/
+.divMADUC{
+	background-image: url(../../fileupload/img/bg_uachuong.png);
+	height: auto;
+}
+
+
+/*Món ăn mới*/
+.divMAM{
+	background-attachment: fixed;
+	background-image: url(../../fileupload/img/bg_monanmoi.png);
+	background-size: cover;
+}
+.divMAMChild{
+	background-color: #ffffff1a;	
+}
+.divMAMChild img{
+	border-radius: 5px;	
+	cursor: pointer;
+}
+.priceMAM{
+	color: #ef7147;
+}
+.tenMonAnMAM{
+	color: white;
+	font-weight: bold;
+}
+.tenMonAnMAM:hover{
+	color: #ef7147;
+	cursor: pointer;
+}
+.motaMAM{
+	color: #cdcdcd;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+
+
+/*Blog*/
+.divBlog{
+	background-image: url(../../fileupload/img/bg_monannoibat.png);
+	height: 620px;
+}
+.btnBlog{
+	background-color: #ef7147;
+	color: white;
+	font-family: Arial;
+	transition: 0.3s;
+	border: none;
+	height: 35px;
+}
+.btnBlog:hover{
+	background-color: white;
+	color: #ef7147;
+	border: 1px solid #ef7147;
+	cursor: pointer;
+}
+.tieuDeBlog{
+	font-size: 18px!important;
+	transition: 0.3s;
+}
+.tieuDeBlog:hover{
+	color: #ef7147;
+	cursor: pointer;
+}
+.chiTietBlog{
+	font-style: italic;
+	color: #ef7147;
+	cursor: pointer;
+}
+
+
+/*Introduce*/
+.divIntro{
+	background-image:url(../../fileupload/img/bg_uachuong.png);
+}
+
+/*dịch vụ*/
+.divDichVuChild{
+	border: none;
+}
+

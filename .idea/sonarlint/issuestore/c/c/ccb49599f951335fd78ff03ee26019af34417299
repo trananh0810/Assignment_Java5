@@ -1,0 +1,12 @@
+
+HWeb:TableWithoutCaptionCheck-" Add a description to this table.(éôåä
+NWeb:AvoidCommentedOutCodeCheckW"Remove this commented out code.(Ê¾˜óÿÿÿÿÿ
+l Web:TableHeaderHasIdOrScopeCheck2";Add either an 'id' or a 'scope' attribute to this <th> tag.(ûËö»ÿÿÿÿÿ
+g Web:TableHeaderHasIdOrScopeCheck3";Add either an 'id' or a 'scope' attribute to this <th> tag.(ÉùÍ
+g Web:TableHeaderHasIdOrScopeCheck4";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ä˜
+l Web:TableHeaderHasIdOrScopeCheck5";Add either an 'id' or a 'scope' attribute to this <th> tag.(Æ¨ÔÔÿÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+NWeb:AvoidCommentedOutCodeCheck+"Remove this commented out code.(Ê¾˜óÿÿÿÿÿ
+g Web:TableHeaderHasIdOrScopeCheck1";Add either an 'id' or a 'scope' attribute to this <th> tag.(ƒÁó˜
+l Web:TableHeaderHasIdOrScopeCheck0";Add either an 'id' or a 'scope' attribute to this <th> tag.(·ù³ÿÿÿÿÿ
+>	Web:S1827<")Remove this deprecated "scope" attribute.(„šøµ

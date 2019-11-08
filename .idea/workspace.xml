@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="anhtdph05679-assignment-sof302:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edce276b-6487-4928-90be-8c0e2ccdc468" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dbJava5_Assignment@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dbJava5_Assignment@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="dbJava5_Assignment: database" type="ccb7ac2a:MsImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dbJava5_Assignment@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="dbJava5_Assignment: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="dbJava5_Assignment@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="dbJava5_Assignment: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SpringMVC-DispatcherServlet" />
+        <option value="SpringMVC-web" />
+        <option value="SpringMVC-hibernate.cfg" />
+        <option value="Servlet-GenericDAO" />
+        <option value="SpringMVC-AbstractDAO" />
+        <option value="Constant" />
+        <option value="Md5Util" />
+        <option value="DateUtil" />
+        <option value="SpringMVC-JSP" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Apache/apache-maven-3.6.2" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SYJfA19HWR6vTJCzkPiXzFu9gA" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="15e4a167-7b20-40dc-97ef-97aa71b7f929" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4634434" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="Entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FPOLY\K5\SOF302 - Java 5\Assignment\ANHTDPH05679_ASSIGNMENT_SOF302\src\main\webapp\resources\fileupload\img" />
+      <recent name="D:\FPOLY\K5\SOF302 - Java 5\Assignment\ANHTDPH05679_ASSIGNMENT_SOF302\src\main\webapp\resources\jscss\css" />
+      <recent name="D:\FPOLY\K5\SOF302 - Java 5\Assignment\ANHTDPH05679_ASSIGNMENT_SOF302\src\main\webapp\WEB-INF\Views\web" />
+      <recent name="D:\FPOLY\K5\SOF302 - Java 5\Assignment\ANHTDPH05679_ASSIGNMENT_SOF302\src\main\webapp\resources\jscss\js" />
+      <recent name="D:\FPOLY\K5\SOF302 - Java 5\Assignment\ANHTDPH05679_ASSIGNMENT_SOF302\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Entity" />
+      <recent name="Controller.admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FPOLY\K5\SOF302 - Java 5\Assignment\ANHTDPH05679_ASSIGNMENT_SOF302\src\main\webapp\WEB-INF\Views\web" />
+      <recent name="D:\FPOLY\K5\SOF302 - Java 5\Assignment\ANHTDPH05679_ASSIGNMENT_SOF302\src\main\webapp\WEB-INF\Views\admin" />
+      <recent name="D:\FPOLY\K5\SOF302 - Java 5\Assignment\ANHTDPH05679_ASSIGNMENT_SOF302\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="anhtdph05679-assignment-sof302:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/anhtdph05679_assignment_sof302_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ANHTDPH05679_ASSIGNMENT_SOF302_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52529" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="anhtdph05679-assignment-sof302:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edce276b-6487-4928-90be-8c0e2ccdc468" name="Default Changelist" comment="" />
+      <created>1568812387700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568812387700</updated>
+      <workItem from="1568812392633" duration="8939000" />
+      <workItem from="1568853927739" duration="8082000" />
+      <workItem from="1568945163923" duration="467000" />
+      <workItem from="1568945930522" duration="52000" />
+      <workItem from="1568945984545" duration="26000" />
+      <workItem from="1568946013937" duration="356000" />
+      <workItem from="1568946375643" duration="1710000" />
+      <workItem from="1568948205894" duration="5000" />
+      <workItem from="1568974528900" duration="8840000" />
+      <workItem from="1569050289668" duration="9513000" />
+      <workItem from="1569064487262" duration="111000" />
+      <workItem from="1569222980788" duration="9375000" />
+      <workItem from="1569236837547" duration="2894000" />
+      <workItem from="1569252467526" duration="25000" />
+      <workItem from="1569289001635" duration="5972000" />
+      <workItem from="1569305494700" duration="6078000" />
+      <workItem from="1569312626321" duration="6138000" />
+      <workItem from="1569375680606" duration="516000" />
+      <workItem from="1569376257755" duration="3819000" />
+      <workItem from="1569380147969" duration="86000" />
+      <workItem from="1569380236384" duration="52000" />
+      <workItem from="1569380439282" duration="1444000" />
+      <workItem from="1569393659137" duration="10184000" />
+      <workItem from="1569483133779" duration="5743000" />
+      <workItem from="1569543586417" duration="6085000" />
+      <workItem from="1569549977640" duration="987000" />
+      <workItem from="1569550977495" duration="1228000" />
+      <workItem from="1569552262601" duration="9000" />
+      <workItem from="1569552412465" duration="1175000" />
+      <workItem from="1569567348690" duration="6594000" />
+      <workItem from="1569640166216" duration="64000" />
+      <workItem from="1569640360524" duration="18000" />
+      <workItem from="1569640577503" duration="13000" />
+      <workItem from="1569660752650" duration="48000" />
+      <workItem from="1569660994144" duration="5000" />
+      <workItem from="1569661084563" duration="6000" />
+      <workItem from="1569661290971" duration="28000" />
+      <workItem from="1569844600119" duration="948000" />
+      <workItem from="1570187094096" duration="235000" />
+      <workItem from="1570191632729" duration="514000" />
+      <workItem from="1570461380277" duration="8000" />
+      <workItem from="1570463454557" duration="31000" />
+      <workItem from="1570463909335" duration="12000" />
+      <workItem from="1570465372821" duration="12000" />
+      <workItem from="1570499086653" duration="20000" />
+      <workItem from="1570501871930" duration="87000" />
+      <workItem from="1570622576521" duration="1506000" />
+      <workItem from="1570863389432" duration="2964000" />
+      <workItem from="1570866983839" duration="141000" />
+      <workItem from="1571734702857" duration="5000" />
+      <workItem from="1571734722474" duration="100000" />
+      <workItem from="1571734983258" duration="843000" />
+      <workItem from="1571735878046" duration="603000" />
+      <workItem from="1571789720789" duration="480000" />
+      <workItem from="1571821051411" duration="159000" />
+      <workItem from="1571832605153" duration="22000" />
+      <workItem from="1571834639482" duration="180000" />
+      <workItem from="1571993622624" duration="1008000" />
+      <workItem from="1572410324499" duration="130000" />
+      <workItem from="1572432466468" duration="680000" />
+      <workItem from="1572435905575" duration="1123000" />
+      <workItem from="1572662721513" duration="41000" />
+      <workItem from="1572663797334" duration="6000" />
+      <workItem from="1572876961683" duration="365000" />
+      <workItem from="1572877330316" duration="147000" />
+      <workItem from="1573026369503" duration="2943000" />
+      <workItem from="1573195740524" duration="12000" />
+      <workItem from="1573196330785" duration="110000" />
+      <workItem from="1573198040505" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Controller/admin/UploadFileController.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ANHTDPH05679_ASSIGNMENT_SOF302$Tomcat_8_5_40.ic" NAME="Tomcat 8.5.40 Coverage Results" MODIFIED="1568947482360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JPA|ANHTDPH05679_ASSIGNMENT_SOF302</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4634434" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
